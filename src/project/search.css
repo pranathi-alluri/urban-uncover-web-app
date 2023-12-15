@@ -1,0 +1,44 @@
+.results-grid {
+    margin-top: 5em;
+    margin-left: 4px;
+}
+
+.results-grid .card-img-top {
+    height: 260px;
+}
+
+.card-link {
+    text-decoration: none;
+}
+
+.card-body {
+    border: #003049 solid 2px;
+    background-color: #fdf0d5;
+    min-height: 50px;
+}
+
+.card-title {
+    text-align: center;
+    margin: 5px;
+    color:#003049 !important;
+}
+
+.search-header {
+    color: #003049;
+    margin: 15px;
+}
+
+.search-row {
+    margin: 15px !important;
+}
+
+.search-input {
+    margin-bottom: 5px;
+}
+
+.search-button {
+    background-color: #c1121f !important;
+    border: 0 !important;
+    color: #fdf0d5;
+}
+

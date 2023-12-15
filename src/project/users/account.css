@@ -1,0 +1,39 @@
+.top-profile {
+    margin: 1em !important;
+}
+
+.profile-container {
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Add shadow */
+    border: 1px solid #ccc; /* Add border */
+    padding: 20px; /* Add padding */
+    min-width: 150px;
+    background-color: #fdf0d5;
+}
+
+.profile-icon {
+    font-size: 70px; /* Increase the size of the FaUser icon */
+    color: #669bbc;
+}
+
+.username {
+    color: #003049;
+}
+
+.account-info-container {
+    margin-top: 2.5em !important;
+    border-right: 1px dashed #003049;
+    min-width: 200px;
+}
+
+.account-header {
+    color:#669bbc;
+}
+
+.content-container {
+    margin-left: 3em;
+}
+
+.section-header {
+    color: #780000;
+
+}

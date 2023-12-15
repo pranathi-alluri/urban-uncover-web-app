@@ -1,0 +1,14 @@
+.navbar-urban {
+    background-color: #003049;
+}
+
+.navbar-brand {
+    color: #fdf0d5 !important;
+    font-weight: bold;
+}
+
+.btn-login {
+    background-color: #669bbc !important;
+    border: 0px !important;
+    color: #fdf0d5 !important;
+}
